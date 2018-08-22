@@ -2,7 +2,7 @@
 
 > All the information and resources related to quick talks and workshops can be found in this repo.
 
-> The names of the speaker along with their GitHub profiles is gven. Feel free to contact them for any query.
+> The names of the speaker along with their GitHub profiles is given. Feel free to contact them for any query.
 
 ***
 
