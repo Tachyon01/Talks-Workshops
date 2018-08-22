@@ -9,4 +9,4 @@
  | # | Topic                                     | Speaker            | Date                    | Resouces             |
  |---|-------------------------------------------|--------------------|-------------------------|----------------------|
  | 1 | Intoduction to MATLAB                     |            [Harshit Srivastav](https://github.com/semioctave)      |        20th August 2018 | [Slides](https://github.com/Tesla-IIITA/Talks-Workshops/blob/master/Workshop/EDA/MATLAB) |
- | 1 | Intoduction to LTSpice                     |            [Harshit Srivastav](https://github.com/semioctave)      |        22th August 2018 | [Slides](https://github.com/Tesla-IIITA/Talks-Workshops/tree/master/Workshop/EDA/LTSpice) |
+ | 2 | Intoduction to LTSpice                     |            [Harshit Srivastav](https://github.com/semioctave)      |        22th August 2018 | [Slides](https://github.com/Tesla-IIITA/Talks-Workshops/tree/master/Workshop/EDA/LTSpice) |
