@@ -10,3 +10,5 @@
  |---|-------------------------------------------|--------------------|-------------------------|----------------------|
  | 1 | Intoduction to MATLAB                     |            [Harshit Srivastav](https://github.com/semioctave)      |        20th August 2018 | [Slides](https://github.com/Tesla-IIITA/Talks-Workshops/blob/master/Workshop/EDA/MATLAB) |
  | 2 | Intoduction to LTSpice                     |            [Harshit Srivastav](https://github.com/semioctave)      |        22th August 2018 | [Slides](https://github.com/Tesla-IIITA/Talks-Workshops/tree/master/Workshop/EDA/LTSpice) |
+  | 3 | Intoduction to Arduino                     |            [Harshit Srivastav](https://github.com/semioctave)      |        27th August 2018 | [Slides](https://github.com/Tesla-IIITA/Talks-Workshops/tree/master/Workshop/Robotics/) |
+
